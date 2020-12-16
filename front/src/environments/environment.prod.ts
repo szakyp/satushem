@@ -1,4 +1,4 @@
 export const environment = {
-  apiUrl: 'http://newsatushem.ru/api',
+  apiUrl: 'http://sz.zakypim.online/api',
   production: true
 };
